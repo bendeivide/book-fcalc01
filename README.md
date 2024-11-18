@@ -45,5 +45,12 @@ Iremos estruturar a escrita do livro  por meio deste arquivo.
 ## Projeto Overleaf
 
 - [Link do projeto](https://www.overleaf.com/project/673bcbaa59720f5ba9f95fc0)
+
+## Referências para a escrita do livro
+
+- Anton
+- Ellon Lages
+- Stewart
+- Guidorizzi
   
 
