@@ -52,5 +52,6 @@ Iremos estruturar a escrita do livro  por meio deste arquivo.
 - Ellon Lages
 - Stewart
 - Guidorizzi
+- George B. Thomas
   
 
