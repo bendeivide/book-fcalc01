@@ -14,7 +14,7 @@ Iremos estruturar a escrita do livro  por meio deste arquivo.
 ## Ementa de Cálculo I (UFSJ)
 
 - [ ] Unidade 1 – Funções de 01 variável real
-  - [ ] 1.1 Números Reais;
+  - [X] 1.1 Números Reais;
   - [ ] 1.2 Definição de função;
   - [ ] 1.3 Funções elementares;
 1.4 Aplicações de funções nas Engenharias.
